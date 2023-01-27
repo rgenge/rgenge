@@ -2,7 +2,7 @@
 <h3 align="center">I'm Atila Costa Almeida! </h3>
 
 - ✨ I am a addicted to learn, help and share. I am Civil Engineering with more than 10 years experience in Building Management, Estimating.
-- 💻Now I'm becoming a Software Engineer! And that's the pursuit of a dream, since young I really loved this area but something always pushed me back, but not I really on the
+- 💻Now I'm becoming a Software Engineer! And that's the pursuit of a dream, since young I really loved this area but something always pushed me back, but now I really on the
 way I should always be. I'm a 42 Coding School Cadet and I really enjoy it and really greateful for the opportunity they gave me.
 - 🤝 I love playing games, playing drums, doing exercises,a dog person, and a traveller, I love knowing another places and people and I just love nature, Forest > City. 
 - 🔭 I’m currently looking for work.
