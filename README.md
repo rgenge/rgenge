@@ -11,4 +11,5 @@ way I should always be. I'm a 42 Coding School Cadet and I really enjoy it and r
 - 📫 How to reach me: https://www.linkedin.com/in/atila-costa-almeida-21ab01233/
 
 if you want to get in touch to ask anything or even get some help do not hesitate.👋
+
 [![Atila Costa Almeida (acosta-a) GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=rgenge&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/rgenge)
