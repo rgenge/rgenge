@@ -6,7 +6,7 @@
 way I should always be. I'm a 42 Coding School Cadet and I really enjoy it and really greateful for the opportunity they gave me.
 - 🤝 I love playing games, playing drums, doing exercises,a dog person, and a traveller, I love visiting another countries and people and I just love nature, Forest > City. 
 - 🔭 I’m currently looking for work.
-- 🌱 I’m currently learning  C, C++ through 42 school and Python by myself, and thinking about start learning Unity and C#.
+- 🌱 I’m currently learning  C, C++, React JS, PostgreSQL, Docker through 42 school and Python, Solidity, Data Science by myself.
 - 💬 Ask me about C, C++, Makefile, Github and a bit about Python and Jupyter. And anything in my repositories and I will do my best to help.
 - 📫 How to reach me: https://www.linkedin.com/in/atila-costa-almeida-21ab01233/
 
