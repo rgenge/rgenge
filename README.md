@@ -7,7 +7,7 @@ way I should always be. I'm a 42 Coding School Cadet and I really enjoy it and r
 - 🤝 I love playing games, playing drums, doing exercises,a dog person, and a traveller, I love visiting another countries and people and I just love nature, Forest > City. 
 - 🔭 I’m currently working as an Intern in one startup, where I am learning Google Cloud, Firebase, Kubernetes w\ Skaffold, Golang, Kotlin, VueJS and Docker.
 - 🌱 I’m am  C, C++, Python developer studying Java and Data Analysis with at the moment.
-- 💬 Ask me about C, C++, Makefile, Github and a bit about Python and Jupyter. And anything in my repositories and I will do my best to help.
+- 💬 Ask me about C, C++, Makefile, Github and a bit about Python, Java, VueJS and Jupyter. And anything in my repositories and I will do my best to help.
 - 📫 How to reach me: https://www.linkedin.com/in/atila-costa-almeida
 
 if you want to get in touch to ask anything or even get some help do not hesitate.👋
